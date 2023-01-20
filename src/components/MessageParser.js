@@ -30,7 +30,7 @@ constructor(ActionProvider) {
         }
         else if(lowermsg.includes("hi"))
         {
-            this.ActionProvider.Hi();
+            this.ActionProvider.greet();
         }
         else if(lowermsg.includes("how are you"))
         {
