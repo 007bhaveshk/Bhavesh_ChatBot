@@ -97,17 +97,17 @@ import React from 'react';
       props: {
         projoptions: [
           {
-            title: "Nik ChatBot",
-            text: "Nik ChatBot is chatbot which stimulates conversation through text chats and gives information about me. ",
+            title: "ChatBot",
+            text: "ChatBot is chatbot which stimulates conversation through text chats and gives information about me. ",
             stack:" React JS.",
-            Host:"https://himanshufating.github.io/FACEBOOK/",
+            Host:"https://strong-frangollo-fe87eb.netlify.app/",
             id: 1,
           },
           {
             title: "Whack-A-Mole Game",
             text: "Whack-A-Mole is casual/arcade game, player can play with relax mode.",
             stack:" HTML, CSS, JavaScript",
-            host:"https://bejewelled-alfajores-89b645.netlify.app/",
+            host:"https://roaring-duckanoo-85b86d.netlify.app/",
             id: 2,
           },
         ],
